@@ -21,3 +21,12 @@
 
 ### assets
 * three mp3s have been provided for each mental state. you can use those as the audio files in this project.
+
+
+### Getting Started
+1. Install dependencies:
+   yarn install
+2. Start the server:
+   yarn server
+3. Run the app:
+   yarn ios or yarn android
